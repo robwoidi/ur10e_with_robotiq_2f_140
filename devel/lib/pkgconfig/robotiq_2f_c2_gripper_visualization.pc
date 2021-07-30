@@ -1,0 +1,1 @@
+/home/stefan/u10e_ws/devel/.private/robotiq_2f_c2_gripper_visualization/lib/pkgconfig/robotiq_2f_c2_gripper_visualization.pc

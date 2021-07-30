@@ -1,0 +1,4 @@
+Symlinking /home/stefan/u10e_ws/devel/lib/python3/dist-packages/robotiq_modbus_tcp/__init__.py
+Symlinking /home/stefan/u10e_ws/devel/lib/pkgconfig/robotiq_modbus_tcp.pc
+Symlinking /home/stefan/u10e_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig-version.cmake
+Symlinking /home/stefan/u10e_ws/devel/share/robotiq_modbus_tcp/cmake/robotiq_modbus_tcpConfig.cmake

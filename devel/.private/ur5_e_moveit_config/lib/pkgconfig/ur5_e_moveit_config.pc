@@ -1,0 +1,8 @@
+prefix=/home/stefan/u10e_ws/devel/.private/ur5_e_moveit_config
+
+Name: ur5_e_moveit_config
+Description: Description of ur5_e_moveit_config
+Version: 1.2.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

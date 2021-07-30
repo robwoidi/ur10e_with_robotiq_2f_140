@@ -1,0 +1,12 @@
+universal_robot/ur_driver
+/home/stefan/u10e_ws/devel/.private/ur_driver/cmake.lock /home/stefan/u10e_ws/devel/./cmake.lock
+/home/stefan/u10e_ws/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/__init__.py /home/stefan/u10e_ws/devel/lib/python3/dist-packages/ur_driver/__init__.py
+/home/stefan/u10e_ws/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/cfg/__init__.py /home/stefan/u10e_ws/devel/lib/python3/dist-packages/ur_driver/cfg/__init__.py
+/home/stefan/u10e_ws/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py /home/stefan/u10e_ws/devel/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py
+/home/stefan/u10e_ws/devel/.private/ur_driver/lib/pkgconfig/ur_driver.pc /home/stefan/u10e_ws/devel/lib/pkgconfig/ur_driver.pc
+/home/stefan/u10e_ws/devel/.private/ur_driver/include/ur_driver/URDriverConfig.h /home/stefan/u10e_ws/devel/include/ur_driver/URDriverConfig.h
+/home/stefan/u10e_ws/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig.dox /home/stefan/u10e_ws/devel/share/ur_driver/docs/URDriverConfig.dox
+/home/stefan/u10e_ws/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig-usage.dox /home/stefan/u10e_ws/devel/share/ur_driver/docs/URDriverConfig-usage.dox
+/home/stefan/u10e_ws/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig.wikidoc /home/stefan/u10e_ws/devel/share/ur_driver/docs/URDriverConfig.wikidoc
+/home/stefan/u10e_ws/devel/.private/ur_driver/share/ur_driver/cmake/ur_driverConfig-version.cmake /home/stefan/u10e_ws/devel/share/ur_driver/cmake/ur_driverConfig-version.cmake
+/home/stefan/u10e_ws/devel/.private/ur_driver/share/ur_driver/cmake/ur_driverConfig.cmake /home/stefan/u10e_ws/devel/share/ur_driver/cmake/ur_driverConfig.cmake

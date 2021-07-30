@@ -1,0 +1,8 @@
+prefix=/home/stefan/u10e_ws/devel/.private/robotiq_2f_gripper_control
+
+Name: robotiq_2f_gripper_control
+Description: Description of robotiq_2f_gripper_control
+Version: 1.0.0
+Cflags: -I/home/stefan/u10e_ws/devel/.private/robotiq_2f_gripper_control/include -I/home/stefan/u10e_ws/src/robotiq/robotiq_2f_gripper_control/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_runtime roscpp robotiq_ethercat

@@ -1,0 +1,6 @@
+robotiq/robotiq_modbus_rtu
+/home/stefan/u10e_ws/devel/.private/robotiq_modbus_rtu/cmake.lock /home/stefan/u10e_ws/devel/./cmake.lock
+/home/stefan/u10e_ws/devel/.private/robotiq_modbus_rtu/lib/python3/dist-packages/robotiq_modbus_rtu/__init__.py /home/stefan/u10e_ws/devel/lib/python3/dist-packages/robotiq_modbus_rtu/__init__.py
+/home/stefan/u10e_ws/devel/.private/robotiq_modbus_rtu/lib/pkgconfig/robotiq_modbus_rtu.pc /home/stefan/u10e_ws/devel/lib/pkgconfig/robotiq_modbus_rtu.pc
+/home/stefan/u10e_ws/devel/.private/robotiq_modbus_rtu/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig.cmake /home/stefan/u10e_ws/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig.cmake
+/home/stefan/u10e_ws/devel/.private/robotiq_modbus_rtu/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake /home/stefan/u10e_ws/devel/share/robotiq_modbus_rtu/cmake/robotiq_modbus_rtuConfig-version.cmake

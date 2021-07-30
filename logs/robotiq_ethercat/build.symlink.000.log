@@ -1,0 +1,4 @@
+Symlinking /home/stefan/u10e_ws/devel/lib/librobotiq_ethercat.so
+Symlinking /home/stefan/u10e_ws/devel/lib/pkgconfig/robotiq_ethercat.pc
+Symlinking /home/stefan/u10e_ws/devel/share/robotiq_ethercat/cmake/robotiq_ethercatConfig.cmake
+Symlinking /home/stefan/u10e_ws/devel/share/robotiq_ethercat/cmake/robotiq_ethercatConfig-version.cmake

@@ -1,0 +1,5 @@
+universal_robot/ur_description
+/home/stefan/u10e_ws/devel/.private/ur_description/cmake.lock /home/stefan/u10e_ws/devel/./cmake.lock
+/home/stefan/u10e_ws/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/stefan/u10e_ws/devel/lib/pkgconfig/ur_description.pc
+/home/stefan/u10e_ws/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/stefan/u10e_ws/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake
+/home/stefan/u10e_ws/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/stefan/u10e_ws/devel/share/ur_description/cmake/ur_descriptionConfig.cmake

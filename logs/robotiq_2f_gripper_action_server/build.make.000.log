@@ -1,0 +1,49 @@
+[35m[1mScanning dependencies of target robotiq_2f_gripper_action_server_client_test[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[ 20%] [32mBuilding CXX object CMakeFiles/robotiq_2f_gripper_action_server_client_test.dir/src/robotiq_2f_gripper_action_server_client_test.cpp.o[0m
+[ 20%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 20%] Built target std_msgs_generate_messages_nodejs
+[ 20%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 20%] Built target std_msgs_generate_messages_cpp
+[ 20%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 20%] Built target rosgraph_msgs_generate_messages_lisp
+[ 20%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 20%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 20%] Built target roscpp_generate_messages_py
+[ 20%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target robotiq_2f_gripper_control_generate_messages_cpp[0m
+[ 20%] Built target std_msgs_generate_messages_lisp
+[ 20%] Built target robotiq_2f_gripper_control_generate_messages_cpp
+[35m[1mScanning dependencies of target robotiq_2f_gripper_control_generate_messages_eus[0m
+[35m[1mScanning dependencies of target robotiq_2f_gripper_control_generate_messages_lisp[0m
+[ 20%] Built target robotiq_2f_gripper_control_generate_messages_eus
+[ 20%] Built target robotiq_2f_gripper_control_generate_messages_lisp
+[35m[1mScanning dependencies of target robotiq_2f_gripper_control_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 20%] Built target robotiq_2f_gripper_control_generate_messages_nodejs
+[ 20%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target robotiq_2f_gripper_control_generate_messages_py[0m
+[ 20%] Built target robotiq_2f_gripper_control_generate_messages_py
+[35m[1mScanning dependencies of target robotiq_2f_gripper_action_server_node[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/robotiq_2f_gripper_action_server_node.dir/src/robotiq_2f_gripper_action_server_node.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/robotiq_2f_gripper_action_server_node.dir/src/robotiq_2f_gripper_action_server.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable /home/stefan/u10e_ws/devel/.private/robotiq_2f_gripper_action_server/lib/robotiq_2f_gripper_action_server/robotiq_2f_gripper_action_server_node[0m
+[100%] [32m[1mLinking CXX executable /home/stefan/u10e_ws/devel/.private/robotiq_2f_gripper_action_server/lib/robotiq_2f_gripper_action_server/robotiq_2f_gripper_action_server_client_test[0m
+[100%] Built target robotiq_2f_gripper_action_server_node
+[100%] Built target robotiq_2f_gripper_action_server_client_test
