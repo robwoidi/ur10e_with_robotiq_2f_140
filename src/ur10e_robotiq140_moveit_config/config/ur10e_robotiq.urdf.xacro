@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro"
+       name="ur10e_robotiq" >
+
+  
+  <!-- ur10e -->
+  <xacro:include filename="$(find ur_e_description)/urdf/ur10e.urdf.xacro" />
+  <!-- gripper -->
+  <xacro:include filename="$(find robotiq_2f_140_gripper_visualization)/urdf/robotiq_arg2f_140_model_macro.xacro" />  
+  <!-- arm -->
+  <xacro:ur10e_robot prefix="" joint_limited="false"/>
+
+  <xacro:robotiq_arg2f_140 prefix="gripper_" />
+
+  <!-- attach gripper -->
+  <joint name="$tool0-robotiq_arg2f_base_link" type="fixed">
+    <!--origin xyz="0 0 0" rpy="0 0 -${pi/2}" -->
+    <origin xyz="0 0 0" rpy="0 0 0" />
+    <parent link="tool0" />
+    <child link="gripper_robotiq_arg2f_base_link" />
+  </joint>
+
+
+  <link name="world" />
+
+  <joint name="world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "base_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+  </joint>
+
+</robot>
