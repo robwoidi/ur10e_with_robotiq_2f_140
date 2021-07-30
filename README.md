@@ -14,4 +14,4 @@ I try to move the robot and the gripper with MoveIt in Gazebo.
 So I combined the robot and the gripper in the "ur10e_robotiq.urdf.xacro" file in ur10e_robotiq140_moveit_config/config.
 I used the MoveIt setup assistant to generate the ur10e_robotiq140_moveit_config package. 
 
-The ur10e_robotiq_conf.urdf.xacro file is a URDF file for the simulation out of the setup assistant.
+The "ur10e_robotiq_conf.urdf" file is a URDF file for the simulation out of the setup assistant.
